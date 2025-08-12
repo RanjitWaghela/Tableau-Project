@@ -1,24 +1,45 @@
-📄 Indian Energy Sales Analysis – Tableau Project 
+⚡ Energy Sales Analysis – Tableau Project
+📌 Project Overview
+This project focuses on analyzing India’s energy sales data to identify key trends, high-consumption states, and sector-wise performance. Using Tableau, I created an interactive and visually appealing dashboard that provides actionable insights for energy companies, policy makers, and stakeholders to make data-driven decisions.
 
-This project focuses on analyzing India’s energy sales data to uncover patterns, trends, and performance insights across states and customer sectors. Using Tableau, I developed an interactive dashboard to help stakeholders monitor and improve energy distribution efficiency.
+🎯 Objectives
+Analyze state-wise and sector-wise energy sales patterns.
 
-Key Insights:
+Identify peak consumption periods and seasonal trends.
 
-Maharashtra, Gujarat, and Tamil Nadu recorded the highest sales due to strong industrial presence.
+Forecast future energy demand for better planning.
 
-Seasonal analysis showed peak consumption during summer months, especially in urban regions.
+Present data in an interactive and engaging way using Tableau.
 
-Industrial and commercial sectors account for over 70% of total sales, while residential usage is steadily growing.
+📊 Key Insights
+Top States: Maharashtra, Gujarat, and Tamil Nadu lead in total energy sales.
 
-Forecasting models indicate an upward trend in energy demand in the next two quarters.
+Seasonal Trend: Peak consumption occurs during summer months, especially in industrial zones.
 
-Tools & Techniques Used:
+Sector Analysis: Industrial and commercial sectors contribute over 70% of total sales.
 
-Tool: Tableau Public
+Forecasting: Projected steady growth in demand over the next two quarters.
 
-Data Source: Indian energy sales dataset (state-wise, sector-wise monthly data)
+🛠 Tools & Technologies
+Visualization: Tableau Public
 
-Features: State-wise map visualization, KPI cards, trend analysis, customer segmentation, and sales forecasting
+Data Processing: Excel / CSV format
 
-Outcome: Provided actionable insights for policy makers and energy companies to optimize production and distribution.
+Data Source: Indian Energy Sales Dataset (state-wise & sector-wise)
 
+📂 Features of Dashboard
+🌍 State-wise interactive map visualization
+
+📈 Sales trend line charts
+
+📊 Sector-wise breakdown
+
+🔮 Demand forecasting charts     
+
+🧾 KPIs for quick insights
+
+📌 Outcome
+The analysis enables smarter energy distribution, optimized resource allocation, and improved demand forecasting for the Indian energy sector.
+
+🔗 Live Dashboard
+View Tableau Dashboard (https://public.tableau.com/app/profile/ranjit.waghela/viz/EnergySalesAnalysis/Dashboard1)
